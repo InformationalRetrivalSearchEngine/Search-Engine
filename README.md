@@ -14,7 +14,9 @@ Ubuntu terminal
 
 Language:
 Python3
+
+
 Packages used:
-NLTK
+NLTK,
 Gensim  
 
