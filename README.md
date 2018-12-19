@@ -5,12 +5,16 @@ To build a example of a pursuit engine that works on several documents and retri
 Build all necessary systems that a search engine has in order to show your query results:
 Indexing 
 Ranking and Scoring 
-Searching & Displaying top 10 results
+Searching & Displaying top 10 results with tf-idf Score
    
 
 Tools and Technologies:
 Ubuntu terminal
+
+
+Language:
 Python3
+Packages used:
 NLTK
 Gensim  
 
